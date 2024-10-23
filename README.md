@@ -1,4 +1,4 @@
-# Juan Triguero Espejo 	👋 :wave:
+# Juan Triguero Espejo 	👋
 
 ## Formación
 Soy estudiante de 2ºDAW (Desarrollo Aplicaciones Web), donde me he estado formando para llegar a ser un desarrollador de aplicaciones web. También me he formado con la empresa Eviden, en la cual he sido introducido a Spring Boot. También he sido introducido a lenguajes como Java o JavaScript.
